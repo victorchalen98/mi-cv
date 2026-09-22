@@ -1,0 +1,100 @@
+cv:
+  name: Víctor Chalén
+  location: Guayaquil, Ecuador
+  email: victor98chalen@gmail.com
+  phone: "+593999489629"
+  website: https://victorchalen98.vercel.app/
+  social_networks:
+    - network: GitHub
+      username: victorchalen98
+    - network: LinkedIn
+      username: victor-chalén-5652ab267
+  sections:
+    summary:
+      - Egresado de Ingeniería en Software con experiencia en desarrollo web frontend. Me especializo en crear interfaces modernas, responsivas y eficientes utilizando React, Next.js y Tailwind CSS, con conocimientos en desarrollo backend con Node.js y Python, así como en bases de datos relacionales. Me enfoco en la usabilidad, la calidad del código y las buenas prácticas de desarrollo.
+
+    skills_tecnicas:
+      - label: Frontend
+        details: React, Next.js, HTML5, CSS3, JavaScript, Tailwind CSS
+      - label: Backend
+        details: Node.js, Express, Python, Flask, REST APIs
+      - label: Bases de Datos
+        details: MySQL, PostgreSQL, SQLite
+      - label: Herramientas
+        details: Linux, Git, GitHub, Docker, Figma, Power BI
+
+    experiencia:
+      - company: Fundación ANEUPI
+        position: Desarrollador Front-end (Prácticas Preprofesionales)
+        location: Guayaquil, Ecuador
+        start_date: 2025-05
+        end_date: 2025-07
+        highlights:
+          - Diseñé e implementé la arquitectura de componentes reutilizables utilizando Next.js y Tailwind CSS para la plataforma web institucional.
+          - Optimicé la estructura de navegación y la maquetación en dispositivos móviles, reduciendo los pasos requeridos para acceder a la oferta académica.
+          - Refactoricé vistas clave para mejorar los tiempos de carga y la retención de usuarios en la página de inicio.
+
+      - company: Dirección de Carrera de Ingeniería en Software
+        position: Pasante de Apoyo Técnico y Administrativo
+        location: Guayaquil, Ecuador
+        start_date: 2026-07
+        end_date: 2026-08
+        highlights:
+          - Brindé soporte operativo y gestión digital de información académica asegurando la confidencialidad de datos.
+          - Colaboré en la resolución de incidencias técnicas y comunicación directa con estudiantes y personal docente.
+
+    proyectos:
+      - name: "[Agente de IA Conversacional (AI Agent)](https://github.com/victorchalen98/AI_Agent)"
+        highlights:
+          - Desarrollé un asistente inteligente basado en el patrón ReAct, integrando la API de Google Gemini para la toma de decisiones autónoma entre el razonamiento lógico y la ejecución de herramientas externas.
+          - Implementé capacidades de automatización como evaluación de expresiones matemáticas y gestión de archivos (lectura/escritura), asegurando la integridad del sistema mediante el uso de entornos controlados.
+
+    educacion:
+      - institution: Universidad de Guayaquil
+        area: Ingeniería en Software
+        degree: Egresado
+        start_date: 2020-01
+        end_date: present
+
+design:
+  theme: classic
+  page:
+    show_footer: false
+    show_top_note: false
+  colors:
+    name: "rgb(0, 79, 144)"
+    headline: "rgb(0, 79, 144)"
+    connections: "rgb(0, 79, 144)"
+    section_titles: "rgb(0, 79, 144)"
+    links: "rgb(0, 79, 144)"
+
+locale:
+  language: spanish
+  
+  month_abbreviations:
+    - Ene
+    - Feb
+    - Mar
+    - Abr
+    - May
+    - Jun
+    - Jul
+    - Ago
+    - Sep
+    - Oct
+    - Nov
+    - Dic
+  month_names:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
+  present: Presente
