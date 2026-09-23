@@ -10,7 +10,7 @@ cv:
     - network: LinkedIn
       username: victor-chalén-5652ab267
   sections:
-    summary:
+    Perfil:
       - Egresado de Ingeniería en Software con experiencia en desarrollo web frontend. Me especializo en crear interfaces modernas, responsivas y eficientes utilizando React, Next.js y Tailwind CSS, con conocimientos en desarrollo backend con Node.js y Python, así como en bases de datos relacionales. Me enfoco en la usabilidad, la calidad del código y las buenas prácticas de desarrollo.
 
     skills_tecnicas:
@@ -26,7 +26,7 @@ cv:
     experiencia:
       - company: Fundación ANEUPI
         position: Desarrollador Front-end (Prácticas Preprofesionales)
-        location: Guayaquil, Ecuador
+        location: "[Universidad Leceni](https://universidadleceni.com/)"
         start_date: 2025-05
         end_date: 2025-07
         highlights:
@@ -36,7 +36,6 @@ cv:
 
       - company: Dirección de Carrera de Ingeniería en Software
         position: Pasante de Apoyo Técnico y Administrativo
-        location: Guayaquil, Ecuador
         start_date: 2026-07
         end_date: 2026-08
         highlights:
@@ -44,15 +43,19 @@ cv:
           - Colaboré en la resolución de incidencias técnicas y comunicación directa con estudiantes y personal docente.
 
     proyectos:
+      - name: "[Premier League Matchday](https://premier-league-nine.vercel.app/)"
+        highlights:
+          - Desarrollé una aplicación web en React y Vite para consultar información y estadísticas de la Premier League, como próximos partidos, rachas, goleadores, historial y tablas de posiciones.
+          - Construí un backend en Express que actúa como proxy hacia la API de football-data.org, protegiendo las credenciales de acceso e implementando caché para optimizar las solicitudes.
+      
       - name: "[Agente de IA Conversacional (AI Agent)](https://github.com/victorchalen98/AI_Agent)"
         highlights:
           - Desarrollé un asistente inteligente basado en el patrón ReAct, integrando la API de Google Gemini para la toma de decisiones autónoma entre el razonamiento lógico y la ejecución de herramientas externas.
           - Implementé capacidades de automatización como evaluación de expresiones matemáticas y gestión de archivos (lectura/escritura), asegurando la integridad del sistema mediante el uso de entornos controlados.
-
+      
     educacion:
       - institution: Universidad de Guayaquil
         area: Ingeniería en Software
-        degree: Egresado
         start_date: 2020-01
         end_date: present
 
