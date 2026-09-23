@@ -26,14 +26,14 @@ cv:
     experiencia:
       - company: Fundación ANEUPI
         position: Desarrollador Front-end (Prácticas Preprofesionales)
-        location: "[Universidad Leceni](https://universidadleceni.com/)"
         start_date: 2025-05
         end_date: 2025-07
+        summary: "[Universidad Leceni](https://universidadleceni.com/)"
         highlights:
           - Diseñé e implementé la arquitectura de componentes reutilizables utilizando Next.js y Tailwind CSS para la plataforma web institucional.
           - Optimicé la estructura de navegación y la maquetación en dispositivos móviles, reduciendo los pasos requeridos para acceder a la oferta académica.
           - Refactoricé vistas clave para mejorar los tiempos de carga y la retención de usuarios en la página de inicio.
-
+      
       - company: Dirección de Carrera de Ingeniería en Software
         position: Pasante de Apoyo Técnico y Administrativo
         start_date: 2026-07
