@@ -19,7 +19,7 @@ cv:
       - label: Bases de Datos
         details: SQL, MySQL, PostgreSQL, SQLite
       - label: Herramientas
-        details: Git, GitHub, Linux, Figma
+        details: Git, GitHub, Linux, Figma, Excel
       - label: Desarrollo Web
         details: React, Node.js, Express, Flask, REST APIs
       - label: Idiomas

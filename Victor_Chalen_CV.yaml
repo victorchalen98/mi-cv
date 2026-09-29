@@ -21,7 +21,7 @@ cv:
       - label: Bases de Datos
         details: MySQL, PostgreSQL, SQLite
       - label: Herramientas
-        details: Linux, Git, GitHub, Figma, Power BI
+        details: Linux, Git, GitHub, Figma, Power BI, Excel
       - label: Idiomas
         details: "Inglés (nivel intermedio)"
     
